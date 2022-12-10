@@ -111,7 +111,7 @@ button:hover {
     background-color: hsl(158, 36%, 20%);
 }
 
-@media screen and (max-width:1440px) {
+@media screen and (max-width:500px) {
     body {
         width: 375px;
     }
@@ -120,9 +120,6 @@ button:hover {
         height: 610px;
         flex-wrap: wrap;
         flex-direction: column;
-    }
-
-    .content .container-img {
         width: 100%;
     }
 
